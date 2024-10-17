@@ -1,4 +1,10 @@
+## Olá! Eu sou Paulo Machado👾
 
+. 💻 Atulmente aprendendo: Ciência de Dados na EBAC
+. 📚 Futuro Cientista de dados
+. 🇺🇸 Inglês avançado
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wekoda&show_icons=true&theme=tokyonight)
 
 
 ##
