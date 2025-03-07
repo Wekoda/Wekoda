@@ -1,7 +1,7 @@
 ## Olá! Eu sou Paulo Machado👾
 
-. 💻 Atulmente aprendendo: Ciência de Dados, SQL, MySQL, R, PowerBi e integração com IA \n
-. 📚 TCC do impacto da ciência de dados no futebol. \n
+. 💻 Atulmente aprendendo: Ciência de Dados, SQL, MySQL, R, PowerBi e integração com IA.
+. 📚 TCC do impacto da ciência de dados no futebol.
 . 🦅 Inglês avançado
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wekoda&show_icons=true&theme=tokyonight)
