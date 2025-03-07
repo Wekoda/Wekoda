@@ -1,8 +1,8 @@
 ## Olá! Eu sou Paulo Machado👾
 
-. 💻 Atulmente aprendendo: Ciência de Dados na EBAC
-. 📚 Futuro Cientista de dados
-. 🇺🇸 Inglês avançado
+. 💻 Atulmente aprendendo: Ciência de Dados, SQL, MySQL, R, PowerBi e integração com IA
+. 📚 TCC do impacto da ciência de dados no futebol.
+. 🦅 Inglês avançado
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wekoda&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wekoda&hide_progress=true)
