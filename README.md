@@ -33,12 +33,11 @@ Minhas principais habilidades em Ciência e Engenharia de Dados:
 
 ## 📊 Estatísticas e Atividade no GitHub
 
-Os gráficos abaixo usam o tema **radical** e cores customizadas para o roxo.
 
-### 📈 Minhas Estatísticas do GitHub (Tema Roxa - Radical)
+### 📈 Minhas Estatísticas do GitHub
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Wekoda&show_icons=true&theme=radical&hide_title=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🥇 Top Linguagens (Tema Roxa - Radical)
+### 🥇 Top Linguagens
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Wekoda&layout=compact&langs_count=6&theme=radical&exclude_repo=your-excluded-repo&exclude_repo=your-excluded-repo-2&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Gráfico de Atividade Recente
@@ -66,7 +65,7 @@ Você pode me encontrar e se conectar através do:
 
 ---
 
-## 🐍 Gráfico de Contribuições Animado (Snake Game)
+## 🐍 Gráfico de Contribuições
 
 Este é o GIF animado que substitui o seu gráfico de contribuições estático, como você viu no perfil de exemplo.
 
