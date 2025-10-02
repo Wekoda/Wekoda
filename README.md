@@ -66,10 +66,6 @@ Você pode me encontrar e se conectar através do:
 ---
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Wekoda/Wekoda/output/github-contribution-grid-snake-dark.svg" alt="Snake Game Animado" style="max-width: 100%;"/>
-</div>
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="Wave Footer"/>
   
 </div>
