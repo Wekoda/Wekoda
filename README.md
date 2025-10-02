@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-custom-header-image.png" alt="Header Image" width="100%"/>
-</div>
-
-<div align="center">
   <img src="https://avatars.githubusercontent.com/u/89664593?s=400&v=4" alt="Paulo Machado" width="150" style="border-radius: 50%; border: 4px solid #8A2BE2;"/>
   
   # Olá! Sou o Paulo Machado 👋
@@ -37,7 +33,7 @@ Minhas principais habilidades em Ciência e Engenharia de Dados:
 
 ## 📊 Estatísticas e Atividade no GitHub
 
-Aqui você pode exibir seus gráficos dinâmicos de atividades e estatísticas.
+Os gráficos abaixo usam o tema **radical** e cores customizadas para o roxo.
 
 ### 📈 Minhas Estatísticas do GitHub (Tema Roxa - Radical)
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Wekoda&show_icons=true&theme=radical&hide_title=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
@@ -45,7 +41,7 @@ Aqui você pode exibir seus gráficos dinâmicos de atividades e estatísticas.
 ### 🥇 Top Linguagens (Tema Roxa - Radical)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Wekoda&layout=compact&langs_count=6&theme=radical&exclude_repo=your-excluded-repo&exclude_repo=your-excluded-repo-2&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🚀 Gráfico de Atividade Recente (Tema Radical)
+### 🚀 Gráfico de Atividade Recente
 [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=Wekoda&bg_color=1F222E&color=A67DFF&line=A67DFF&point=FFFFFF&area=true&hide_border=true&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
@@ -68,13 +64,14 @@ Você pode me encontrar e se conectar através do:
   </a>
 </p>
 
-<div align="center">
-  ### 🎮 Minhas Contribuições (Snake Game)
-  <img src="https://raw.githubusercontent.com/Wekoda/Wekoda/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
-</div>
+---
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Wekoda.Wekoda&color=9400D3" alt="Contador de Visitas">
-</p>
+## 🐍 Gráfico de Contribuições Animado (Snake Game)
+
+Este é o GIF animado que substitui o seu gráfico de contribuições estático, como você viu no perfil de exemplo.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Wekoda/Wekoda/output/github-contribution-grid-snake-dark.svg" alt="Snake Game Animado" style="max-width: 100%;"/>
+</div>
 
 </div>
