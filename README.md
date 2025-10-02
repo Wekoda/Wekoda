@@ -7,11 +7,12 @@
     Engenheiro de Dados e Desenvolvedor com foco em transformar dados brutos em insights estratégicos. Apaixonado por Python, visualização de dados e otimização de processos.
   </p>
   
-  <p>
-    🔗 **<a href="https://www.linkedin.com/in/paulo-machado-data/" style="color: #8A2BE2;">Conecte-se comigo no LinkedIn!</a>**
+  <p align="center">
+    <a href="https://www.linkedin.com/in/paulo-machado-data/">
+      <img src="https://img.shields.io/badge/Conecte--se%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=6A5ACD" alt="LinkedIn Badge">
+    </a>
   </p>
-
----
+  ---
 
 ## 💻 My Skills & Tech Stack
 
@@ -33,11 +34,12 @@ Minhas principais habilidades em Ciência e Engenharia de Dados:
 
 ## 📊 Estatísticas e Atividade no GitHub
 
+Os gráficos abaixo usam o tema **radical** e cores customizadas para o roxo.
 
-### 📈 Minhas Estatísticas do GitHub
+### 📈 Minhas Estatísticas do GitHub (Tema Roxa - Radical)
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Wekoda&show_icons=true&theme=radical&hide_title=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🥇 Top Linguagens
+### 🥇 Top Linguagens (Tema Roxa - Radical)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Wekoda&layout=compact&langs_count=6&theme=radical&exclude_repo=your-excluded-repo&exclude_repo=your-excluded-repo-2&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Gráfico de Atividade Recente
@@ -65,7 +67,7 @@ Você pode me encontrar e se conectar através do:
 
 ---
 
-## 🐍 Gráfico de Contribuições
+## 🐍 Gráfico de Contribuições Animado (Snake Game)
 
 Este é o GIF animado que substitui o seu gráfico de contribuições estático, como você viu no perfil de exemplo.
 
