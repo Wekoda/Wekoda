@@ -12,7 +12,6 @@
       <img src="https://img.shields.io/badge/Conecte--se%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=6A5ACD" alt="LinkedIn Badge">
     </a>
   </p>
-  ---
 
 ## 💻 My Skills & Tech Stack
 
