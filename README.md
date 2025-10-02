@@ -4,7 +4,7 @@
   # Olá! Sou o Paulo Machado 👋
   
   <p align="center">
-    Cientista e Analista de Dados** com foco em extração, processamento e visualização de dados. Minha paixão é transformar dados brutos em **insights acionáveis** para tomada de decisão estratégica.
+    **Cientista e Analista de Dados** com foco em extração, processamento e visualização de dados. Minha paixão é transformar dados brutos em **insights acionáveis** para tomada de decisão estratégica.
   </p>
   
   <p align="center">
@@ -13,9 +13,11 @@
     </a>
   </p>
 
+---
+
 ## 💻 My Skills & Tech Stack
 
-Minhas principais habilidades em Ciência e Engenharia de Dados:
+Minhas principais habilidades em Ciência e Análise de Dados:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=8A2BE2" alt="Python Badge">
@@ -34,8 +36,9 @@ Minhas principais habilidades em Ciência e Engenharia de Dados:
 ## 📊 Estatísticas e Atividade no GitHub
 
 
-### 📈 Minhas Estatísticas do GitHub 
+### 📈 Minhas Estatísticas do GitHub (Tema Roxa - Radical)
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Wekoda&show_icons=true&theme=radical&hide_title=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🚀 Gráfico de Atividade Recente
 [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=Wekoda&bg_color=1F222E&color=A67DFF&line=A67DFF&point=FFFFFF&area=true&hide_border=true&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -61,4 +64,5 @@ Você pode me encontrar e se conectar através do:
 </p>
 
 ---
+
 </div>
