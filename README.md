@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header" alt="Wave Header"/>
+</div>
+
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/89664593?s=400&v=4" alt="Paulo Machado" width="150" style="border-radius: 50%; border: 4px solid #8A2BE2;"/>
   
   # Olá! Sou o Paulo Machado 👋
