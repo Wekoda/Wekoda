@@ -4,7 +4,7 @@
   # Olá! Sou o Paulo Machado 👋
   
   <p align="center">
-    Engenheiro de Dados e Desenvolvedor com foco em transformar dados brutos em insights estratégicos. Apaixonado por Python, visualização de dados e otimização de processos.
+    Cientista e Analista de Dados** com foco em extração, processamento e visualização de dados. Minha paixão é transformar dados brutos em **insights acionáveis** para tomada de decisão estratégica.
   </p>
   
   <p align="center">
