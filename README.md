@@ -4,7 +4,7 @@
   # Olá! Sou o Paulo Machado 👋
   
   <p align="center">
-    **Cientista e Analista de Dados** com foco em extração, processamento e visualização de dados. Minha paixão é transformar dados brutos em **insights acionáveis** para tomada de decisão estratégica.
+    <b>Cientista e Analista de Dados</b> com foco em extração, processamento e visualização de dados. Minha paixão é transformar dados brutos em <b>insights acionáveis</b> para tomada de decisão estratégica.
   </p>
   
   <p align="center">
@@ -35,10 +35,13 @@ Minhas principais habilidades em Ciência e Análise de Dados:
 
 ## 📊 Estatísticas e Atividade no GitHub
 
+Os gráficos abaixo usam o tema **radical** e cores customizadas para o roxo.
 
-### 📈 Minhas Estatísticas do GitHub
+### 📈 Minhas Estatísticas do GitHub (Tema Roxa - Radical)
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Wekoda&show_icons=true&theme=radical&hide_title=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🥇 Top Linguagens (Tema Roxa - Radical)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Wekoda&layout=compact&langs_count=6&theme=radical&exclude_repo=your-excluded-repo&exclude_repo=your-excluded-repo-2&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Gráfico de Atividade Recente
 [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=Wekoda&bg_color=1F222E&color=A67DFF&line=A67DFF&point=FFFFFF&area=true&hide_border=true&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -64,5 +67,13 @@ Você pode me encontrar e se conectar através do:
 </p>
 
 ---
+
+## 🐍 Gráfico de Contribuições Animado (Snake Game)
+
+Este é o GIF animado que substitui o seu gráfico de contribuições estático.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Wekoda/Wekoda/output/github-contribution-grid-snake-dark.svg" alt="Snake Game Animado" style="max-width: 100%;"/>
+</div>
 
 </div>
