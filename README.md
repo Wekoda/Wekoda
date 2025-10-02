@@ -1,6 +1,8 @@
 <div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header" alt="Wave Header"/>
-</div>
+  
+  <img src="https://avatars.githubusercontent.com/u/89664593?s=400&v=4" alt="Paulo Machado" width="150" style="border-radius: 50%; border: 4px solid #8A2BE2;"/>
   
   # Olá! Sou o Paulo Machado 👋
   
@@ -30,14 +32,13 @@ Minhas principais habilidades em Ciência e Análise de Dados:
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=483D8B" alt="NumPy Badge">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&color=DA70D6" alt="Scikit-learn Badge">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&color=C71585" alt="Jupyter Badge">
-  </p>
+</p>
 
 ---
 
 ## 📊 Estatísticas e Atividade no GitHub
 
-
-### 📈 Minhas Estatísticas do GitHub
+### 📈 Minhas Estatísticas do GitHub (Tema Roxa - Radical)
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Wekoda&show_icons=true&theme=radical&hide_title=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Gráfico de Atividade Recente
@@ -65,4 +66,12 @@ Você pode me encontrar e se conectar através do:
 
 ---
 
+## 🐍 Gráfico de Contribuições Animado (Snake Game)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Wekoda/Wekoda/output/github-contribution-grid-snake-dark.svg" alt="Snake Game Animado" style="max-width: 100%;"/>
+</div>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="Wave Footer"/>
+  
 </div>
