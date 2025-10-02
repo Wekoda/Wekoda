@@ -36,7 +36,7 @@ Minhas principais habilidades em Ciência e Análise de Dados:
 ## 📊 Estatísticas e Atividade no GitHub
 
 
-### 📈 Minhas Estatísticas do GitHub (Tema Roxa - Radical)
+### 📈 Minhas Estatísticas do GitHub
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Wekoda&show_icons=true&theme=radical&hide_title=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 
